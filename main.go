@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/jacobsa/go-serial/serial"
 )
 
